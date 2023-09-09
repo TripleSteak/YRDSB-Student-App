@@ -8,3 +8,5 @@ Welcome to the **YRDSB Student Planner App**, an all-purpose student utility app
 - Real-time school announcements updates through the Twitter API;
 - Customizable personal planning agenda, designed specifically to help students keep track of high school assignment deadlines; and
 - Passwordless user authentication through email-based student number verification.
+
+![yrdsb-student-app](https://github.com/TripleSteak/Student-App/assets/24597462/25c2d352-5d12-4973-bb7d-c188f1f12b1e)
