@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">YRDSB Student Planner</string>
+
+    <string name="sunday">Sun</string>
+    <string name="monday">Mon</string>
+    <string name="tuesday">Tue</string>
+    <string name="wednesday">Wed</string>
+    <string name="thursday">Thu</string>
+    <string name="friday">Fri</string>
+    <string name="saturday">Sat</string>
+
+    <string name="login">LOGIN</string>
+    <string name="ok">OK</string>
+
+    <string name="calendar">Calendar</string>
+    <string name="event">Event</string>
+    <string name="announcements">Announcements</string>
+    <string name="agenda">Agenda</string>
+    <string name="settings">Settings</string>
+
+    <string name="sp_calendar">calendar_data</string>
+
+    <string name="not_connected">Not connected to the Internet! :(</string>
+    <string name="server_down">Network unavailable</string>
+    <string name="connected">Connected! :)</string>
+
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="create">Create</string>
+    <string name="delete">Delete</string>
+    <string name="mark_finish">Mark as Complete</string>
+    <string name="mark_not_finish">Mark as Incomplete</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="colour">Colour</string>
+    <string name="icon">Icon</string>
+
+    <string name="verification_code_1">A confirmation email has been</string>
+    <string name="verification_code_2">sent to your GAPPS inbox.</string>
+    <string name="verification_code_3">We just want to make sure it\'s you!</string>
+    <string name="verification_prompt">Verification Code</string>
+    <string name="verify_button">Verify</string>
+    <string name="email_few_moments">Email may take up to a minute to arrive.</string>
+    <string name="select_button">Select</string>
+
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="no_reminder_set">Tap to set reminder</string>
+    <string name="add_agenda">Add Agenda Item</string>
+    <string name="choose_colour">Choose a colour</string>
+    <string name="choose_icon">Choose an icon</string>
+    <string name="no_course_name">Enter a course name</string>
+    <string name="exist_course">Course already exists!</string>
+    <string name="delete_course_choice">Tap a course to delete</string>
+    <string name="delete_course_note">Courses can\'t be deleted if there are active assignments</string>
+    <string name="name_too_long">Course name too long! (Max 30 characters)</string>
+    <string name="invalid_char">Invalid character in name</string>
+    <string name="invalid_char_notes">Invalid character in notes</string>
+    <string name="tap_set_due">Tap to select due date</string>
+    <string name="tap_set_due_time">Tap to add due time</string>
+    <string name="notes_details">Pages, requirements, etc.</string>
+    <string name="no_title">Enter a title!</string>
+    <string name="no_due_date">Enter a due date</string>
+    <string name="no_class">Choose a class!</string>
+    <string name="choose_school">Select your school</string>
+
+    <string name="empty_agenda">Woohoo! No homework!</string>
+    <string name="item_name">Item Name</string>
+    <string name="course_name">Course Name</string>
+    <string name="due_date">Due Date</string>
+    <string name="notes">Notes</string>
+
+    <string name="enable_notifs">Enable Notifications?</string>
+
+    <string name="enable_notif">Enable Notifications</string>
+    <string name="homework_check">Homework Check</string>
+    <string name="alert_due_date">Homework Reminder</string>
+    <string name="minutes_before">minutes before</string>
+    <string name="use_clock">Use 24 Hour Clock</string>
+
+    <string name="channel_name">YRDSB Student Planner</string>
+    <string name="channel_ID">YRDSB Student Planner</string>
+</resources>

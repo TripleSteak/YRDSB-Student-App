@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorA_start">#AD5389</color>
+    <color name="colorA_end">#3C1053</color>
+
+    <color name="colorB_start">#DA4453</color>
+    <color name="colorB_end">#89216B</color>
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorLightGrey">#EDEDED</color>
+    <color name="colorGrey">#CCCCCC</color>
+    <color name="colorGrey2">#B7B7B7</color>
+    <color name="colorMediumGrey">#999999</color>
+    <color name="colorDarkGrey">#555555</color>
+    <color name="colorDarkGrey2">#3B3B3B</color>
+    <color name="colorDarkerGrey">#333333</color>
+    <color name="colorDarkerGrey2">#2E2E2E</color>
+    <color name="colorDarkerGrey3">#252525</color>
+
+    <color name="loginInterface">#65B7B2BA</color>
+
+    <color name="lightRed">#F95E5E</color>
+    <color name="lightGreen">#5EFF5E</color>
+
+    <color name="mediumRed">#FF0000</color>
+</resources>
