@@ -1,4 +1,4 @@
-# Student-App
+# YRDSB-Student-App
 **Built:** March 2019 – March 2020
 
 Welcome to the **YRDSB Student Planner App**, an all-purpose student utility app that was originally designed for Bayview Secondary School and/or the York Region District School Board. Talks with the school board's digital literacy team regarding the publication of this app as an official school app were underway, but alas, COVID had put it all to an end >.<
